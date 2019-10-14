@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome</string>
+    <string name="instructions">Instructions: select rock, paper or scissors to play.</string>
+    <string name="all_time">Your all time statistics</string>
+    <string name="win_draw_lose">Win: %1$s Draw: %2$s Lose: %3$s</string>
+    <string name="you_win">You win!</string>
+    <string name="computer_win">Computer wins!</string>
+    <string name="draw">Draw</string>
+    <string name="computer">Computer</string>
+    <string name="you">You</string>
+    <string name="versus">V.S.</string>
+    <string name="title_activity_game_history">Your Game History</string>
+    <string name="initial_result">Choose rock, paper or scissor to play!</string>
+</resources>
